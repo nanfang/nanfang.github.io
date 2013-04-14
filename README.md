@@ -1,4 +1,3 @@
-nanfang.github.io
+nanfang.me pages
 =================
 
-nanfang.me's pages
